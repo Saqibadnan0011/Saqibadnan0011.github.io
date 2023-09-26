@@ -15,9 +15,10 @@
         <div>
             <ul class="nav-links">
                 <li><a href="#home">Home</a></li>
-                <li><a href="#about">About</a></li>
                 <li><a href="#projects">Projects</a></li>
+                <li><a href="#about">About</a></li>
                 <li><a href="#contact">Contact</a></li>
+                <li><a href="#hireme">Hire me</a></li>
             </ul>
         </div>
     </nav>
@@ -31,9 +32,11 @@
             </div>
             <div class="menu-links">
                 <li><a href="#home" onclick="toggleMenu()">Home</a></li>
+                <li><a href="#project" onclick="toggleMenu()">Projects</a></li>
                 <li><a href="#about" onclick="toggleMenu()">About</a></li>
-                <li><a href="#projects" onclick="toggleMenu()">Projects</a></li>
                 <li><a href="#contact" onclick="toggleMenu()">Contact</a></li>
+                <li><a href="#hireme" onclick="toggleMenu()">Hire me</a></li>
+
             </div>
         </div>
     </nav>
@@ -42,18 +45,29 @@
             <img src="./assets/profile.jpg" alt="Saqib's profile picture" />
         </div>
         <div class="section__text">
-            <p class="section__text__p1">Hello, I'm</p>
-            <h1 class="title">Saqib Adnan</h1>
-            <p class="section__text__p2">Software Engineer</p>
+            <h1 class="title">Learning</h1>
+            <h1 class="title-1">till Oblivion</h1>
             <div class="btn-container">
                 <button class="btn btn-color-2" onclick="window.open('https://www.linkedin.com/in/saqib-adnan/')">Resume</button>
-                <button class="btn btn-color-2" onclick="location.href='./#contact'">Contact</button>
+                <button class="btn btn-color-1" onclick="location.href='./#hireme'">Hire Me</button>
             </div>
-            <div id="social-container">
-                <img src="./assets/linkedin.png" alt="linkedln profile" class="icon" onclick="location.href='https://www.linkedin.com/in/saqib/adnan/'"/>
-                <img src="./assets/github.png" alt="github profile" class="icon" onclick="location.href='https://github.com/Saqibadnan0011'"/>
-
-            </div>
+            
+        </div>
+    </section>
+    <section id="about">
+        <div class="about__banner__main">
+            <h2 class="about__banner">I am<br>more than<br>Just a<br>Software Enigneer</h2>
+            <a class="about__banner__a" target="_blank" href="https://www.linkedin.com/in/saqib-adnan/">More
+                <span class="about__banner__span">
+                    <i class="fa-solid fa-arrow-right"></i>
+                </span>
+            </a>
+            <img class="about__banner__pic" src="./assets/about-visual.png" alt="about me"/>
+        </div>
+        <div class="about__img__options">
+            <a class="about__img__a" href="#0">
+                <h3 class="about__img__a__text">Editorial Model.</h3>
+            </a>
         </div>
     </section>
     <script src="script.js"></script>

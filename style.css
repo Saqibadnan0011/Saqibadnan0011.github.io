@@ -166,7 +166,7 @@ section  {
     align-self: center;
     text-align: center;
 }
-
+/*
 .section__text p {
     font-weight: 600;
 }
@@ -175,14 +175,18 @@ section  {
     text-align: center;
 }
 
-.section__text__p1 {
+.section__text__p2 {
     font-size: 1.75rem;
     margin-bottom: 1rem;
 }
-
+*/
 .title {
     font-size: 3rem;
-    text-align: center;
+    text-align: left;
+}
+.title-1 {
+    font-size: 3rem;
+    text-align: left;
 }
 
 #social-container {
@@ -200,7 +204,115 @@ section  {
     background-color: beige;
 }
 
+/* Button Modification */
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.btn {
+    font-weight: 600;
+    transition: all 300ms ease;
+    padding: 1rem;
+    width: 8rem;
+    border-radius: 1rem;
+}
+
+.btn-color-1, .btn-color-2 {
+    border: beige 0.1rem solid;
+}
+
+.btn-color-1:hover
+, .btn-color-2:hover {
+    cursor: pointer;
+}
+
+.btn-color-1 {
+    background: black;
+    /*color: black;*/
+}
+
+.btn-color-1:hover {
+    background: beige;
+    color: black;
+}
+
+.btn-color-2 {
+    background: black;
+}
+
+.btn-color-2:hover {
+    background: beige;
+    color: black;
+}
+
+.btn-container {
+    gap: 3rem;
+}
+
+/* About Section Modification */
+
+.about__banner {
+    display: flex;
+    gap: 1rem;
+    color: beige;
+}
+
+.about__banner {
+    position: relative;
+    margin: 35px;
+    font-size: 70px;
+    font-weight: 900;
+    line-height: 1;
+    z-index: 1;
+}
+
+.about__banner::before {
+    content: "";
+    position: absolute;
+    top: 60px;
+    left: 268px;
+    width: 30px;
+    height: 30px;
+    background-color: peru;
+    border-radius: 50%;
+}
+
+.about__banner::after {
+    content: "";
+    position: absolute;
+    top: 255px;
+    left: 255px;
+    width: 10px;
+    height: 10px;
+    background-color: peru;
+}
+
+.about__banner__a {
+    padding: 5px 18px 5px 0;
+    text-decoration: none;
+    color: beige;
+    font-weight: 500;
+    text-transform: uppercase;
+    padding-top: 1rem;
+}
 
 
+.about__banner__pic {
+    position: absolute;
+    top: 650px;
+    bottom: -90px;
+    right: 300px;
+    border: 0;
+}
 
+.about__banner__pic::selection {
+    background: transparent;
+}
+
+.about__img__a:nth-child(1) {
+    background-image: url("./assets/saqib.jpg");
+}
 
