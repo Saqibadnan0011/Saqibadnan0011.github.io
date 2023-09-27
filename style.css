@@ -330,4 +330,20 @@ section  {
     background: transparent;
 }
 
+.about__img__options {
+    list-style: none;
+}
+
+.about__img {
+    position: relative;
+    width: 250px;
+    height: 125px;
+    text-decoration: none;
+    color: beige;
+    border: 8px solid peru;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 2rem;
+}
 
