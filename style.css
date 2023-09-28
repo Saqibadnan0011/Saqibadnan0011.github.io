@@ -337,7 +337,7 @@ section  {
 .about__img {
     position: relative;
     width: 250px;
-    height: 125px;
+    height: 150px;
     text-decoration: none;
     color: beige;
     border: 8px solid peru;
@@ -346,4 +346,5 @@ section  {
     background-repeat: no-repeat;
     margin: 2rem;
 }
+
 
