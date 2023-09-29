@@ -43,7 +43,7 @@ a {
     text-decoration-color: gray;
  }
 a:hover {
-    color: grey;
+    color: peru;
  }
 
 .logo {
@@ -332,12 +332,13 @@ section  {
 
 .about__img__options {
     list-style: none;
+    display: flex;
 }
 
 .about__img {
     position: relative;
-    width: 250px;
-    height: 150px;
+    width: 200px;
+    height: 100px;
     text-decoration: none;
     color: beige;
     border: 8px solid peru;
@@ -347,4 +348,36 @@ section  {
     margin: 2rem;
 }
 
+.about__img__2 {
+    position: relative;
+    width: 200px;
+    height: 100px;
+    text-decoration: none;
+    color: beige;
+    border: 8px solid peru;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 2rem;
+}
 
+.about__img__3 {
+    position: relative;
+    width: 200px;
+    height: 100px;
+    text-decoration: none;
+    color: beige;
+    border: 8px solid peru;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 2rem;
+}
+
+.about__img__text {
+    position: absolute;
+    bottom: -38px;
+    left: 10px;
+    font-size: 17px;
+    text-transform: uppercase;
+}
