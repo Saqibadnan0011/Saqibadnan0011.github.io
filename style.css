@@ -375,9 +375,11 @@ section  {
 }
 
 .about__img__text {
+    display: block;
     position: absolute;
     bottom: -38px;
     left: 10px;
     font-size: 17px;
     text-transform: uppercase;
+    transition: bottom .2s ease-in-out;
 }
