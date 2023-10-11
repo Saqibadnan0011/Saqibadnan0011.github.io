@@ -289,6 +289,7 @@ section  {
     width: 10px;
     height: 10px;
     background-color: peru;
+    opacity: 0.4;
 }
 
 .about__banner__button {
