@@ -302,16 +302,18 @@ section  {
     border: none;
 }
 
+/*
+.about__banner__pic::selection {
+    background: transparent;
+}
+*/
+
 .about__banner__pic {
     position: absolute;
     top: 650px;
     bottom: -90px;
     right: 300px;
     border: 0;
-}
-
-.about__banner__pic::selection {
-    background: transparent;
 }
 
 .about__img__options {
@@ -332,7 +334,7 @@ section  {
     margin: 2rem;
 }
 
-.about__img__text {
+.about__img__2 {
     position: relative;
     width: 200px;
     height: 100px;
@@ -345,3 +347,15 @@ section  {
     margin: 2rem;
 }
 
+.about__img__3 {
+    position: relative;
+    width: 200px;
+    height: 100px;
+    text-decoration: none;
+    color: beige;
+    border: 8px solid peru;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 2rem;
+}
