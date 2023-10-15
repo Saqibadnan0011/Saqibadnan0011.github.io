@@ -166,20 +166,7 @@ section  {
     align-self: center;
     text-align: center;
 }
-/*
-.section__text p {
-    font-weight: 600;
-}
 
-.section__text__p1 {
-    text-align: center;
-}
-
-.section__text__p2 {
-    font-size: 1.75rem;
-    margin-bottom: 1rem;
-}
-*/
 .title {
     font-size: 3rem;
     text-align: left;
@@ -361,25 +348,3 @@ section  {
     margin: 2rem;
 }
 
-.about__img__text__2 {
-    position: relative;
-    width: 200px;
-    height: 100px;
-    text-decoration: none;
-    color: beige;
-    border: 8px solid peru;
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    margin: 2rem;
-}
-
-.about__img__text__3 {
-    display: block;
-    position: absolute;
-    bottom: -38px;
-    left: 10px;
-    font-size: 17px;
-    text-transform: uppercase;
-    transition: bottom .2s ease-in-out;
-}
