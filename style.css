@@ -293,6 +293,13 @@ section  {
 .about__banner__button {
     cursor: pointer;
     border: beige 0.1rem solid;
+    background-color: black;
+}
+
+.about__banner__button:hover {
+    background-color: peru;
+    color: beige;
+    border: none;
 }
 
 .about__banner__pic {
@@ -301,16 +308,6 @@ section  {
     bottom: -90px;
     right: 300px;
     border: 0;
-}
-
-.about__banner__button {
-    background-color: black;
-}
-
-.about__banner__button:hover {
-    background-color: peru;
-    color: beige;
-    border: none;
 }
 
 .about__banner__pic::selection {
