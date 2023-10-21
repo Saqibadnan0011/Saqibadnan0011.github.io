@@ -316,46 +316,37 @@ section  {
     border: 0;
 }
 
-.about__img__options {
-    list-style: none;
+.about--options {
     display: flex;
+    max-width: 600px;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+    list-style: none;
 }
 
-.about__img {
+.about--options > a:nth-child(1) {
+    background-image: url("../techLord.github.io/assets/saqi.jpg");
+
+}
+
+.about--options > a {
     position: relative;
-    width: 200px;
-    height: 100px;
+    width: 150px;
+    height: 75px;
     text-decoration: none;
-    color: beige;
-    border: 8px solid peru;
+    color: #fff;
+    border: 10px solid blue;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    margin: 2rem;
 }
 
-.about__img__2 {
-    position: relative;
-    width: 200px;
-    height: 100px;
-    text-decoration: none;
-    color: beige;
-    border: 8px solid peru;
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    margin: 2rem;
+a {
+    background-color: transparent;
 }
 
-.about__img__3 {
-    position: relative;
-    width: 200px;
-    height: 100px;
-    text-decoration: none;
-    color: beige;
-    border: 8px solid peru;
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    margin: 2rem;
-}
+
+
+
