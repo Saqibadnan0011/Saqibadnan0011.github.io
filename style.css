@@ -326,9 +326,8 @@ section  {
     list-style: none;
 }
 
-.about--options > a:nth-child(1) {
-    background-image: url("../techLord.github.io/assets/saqi.jpg");
-
+.about--options>a:nth-child(1) {
+    background-image: url("../techLord.github.io/assets/experience.png");
 }
 
 .about--options > a {
@@ -356,4 +355,31 @@ a {
     transition: bottom .2s ease-in-out, left .2s ease-in-out;
 }
 
+.about--options>a:nth-child(2) {
+    background-image: url("../techLord.github.io/assets/saqi.jpg");
+}
 
+.about--options > a {
+    position: relative;
+    width: 150px;
+    height: 75px;
+    text-decoration: none;
+    color: #fff;
+    border: 10px solid blue;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+a {
+    background-color: transparent;
+}
+
+.about--options h3 {
+    position: absolute;
+    bottom: -38px;
+    top: 10px;
+    font-size: 16px;
+    text-transform: uppercase;
+    transition: bottom .2s ease-in-out, left .2s ease-in-out;
+}
