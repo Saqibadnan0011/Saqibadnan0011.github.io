@@ -7,4 +7,4 @@
 </p>
 
 <h1 align="left">My Portfolio Website 👾</h1>
-<p align="left">The way I'm available to explain the complex version or mine, through binary instructions</p>
+<p align="left">The way I'm available to explain the complex version or mine, through binary instructions :)</p>
