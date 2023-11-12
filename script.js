@@ -1,9 +1,18 @@
+const text = document.querySelector(".sec-text");
 
-var typed = new Typed (".type ", {
-    String: ["Software Engineer", "iOS Developer", "Designer", "Java Developer", "Writer"],
-    typeSpeed: 100,
-    backSpeed: 60,
-    cursorChar: ' | ',
-    smartBackspace: true,
-    loop: true
-});
+const textLoad = () => {
+    setTimeout(() => {
+        text.textContent = "Software Engineer";
+    }, 0);
+    setTimeout(() => {
+        text.textContent = "IOS Developer";
+    }, 4000);
+    setTimeout(() => {
+        text.textContent = "Java Developer";
+    }, 8000);
+    setTimeout(() => {
+        text.textContent = "AppLord";
+    }, 12000);
+}
+textLoad();
+setInterval(textLoad, 16000);
