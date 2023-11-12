@@ -35,3 +35,15 @@
     font-size: 30px;
     padding: 5px;
   }
+
+  .profile-name3 {
+    color: gray;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 20px;
+  }
+
+  .profile-name3 span {
+    color: white;
+    font-weight: 500;
+  }
