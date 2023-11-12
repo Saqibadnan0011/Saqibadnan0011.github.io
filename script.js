@@ -1,7 +1,9 @@
-function toggleMenu() {
-    const menu = document.querySelector(".menu-links");
-    const icon = document.querySelector(".hamburger-icon");
 
-    menu.classList.toggle("open");
-    icon.classList.toggle("open");
-}
+var typed = new Typed (".type ", {
+    String: ["Software Engineer", "iOS Developer", "Designer", "Java Developer", "Writer"],
+    typeSpeed: 100,
+    backSpeed: 60,
+    cursorChar: ' | ',
+    smartBackspace: true,
+    loop: true
+});
