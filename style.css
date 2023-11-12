@@ -73,3 +73,27 @@
         left: 0%;
     }
   }
+
+  /* Image Properties */
+
+  img {
+    border-radius: 50%;
+    padding: 15px;
+  }
+
+  .profile-picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+
+  /* Project Section */
+
+  .pro-img {
+    display: block;
+    margin-left: auto;
+    margin-right: 0;
+    width: 40%;
+  }
+  
