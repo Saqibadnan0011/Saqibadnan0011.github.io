@@ -94,7 +94,13 @@
 .social-links-div svg {
   width: 26px !important;
   color: white;
+  transition: .3s ease !important;
 }
+
+.social-links-div svg:hover {
+  transform: scale(0.7);
+}
+
 
 .align-item-center {
   align-items: center !important;
@@ -103,22 +109,32 @@
 .social-links-div2 {
   padding: 5px;
   display: inline-block;
-
 }
 
 .social-links-div2 svg {
   width: 26px !important;
   color: white;
+  transition: .3s ease !important;
+}
+
+.social-links-div2 svg:hover {
+  transform: scale(0.7);
 }
 
 .social-links-div1 {
   padding: 5px;
   display: inline-block;
+  transition: .3s !important;
 }
 
 .social-links-div1 svg {
   width: 26px !important;
   color: white;
+  transition: .3s ease !important;
+}
+
+.social-links-div1 svg:hover {
+  transform: scale(0.7);
 }
 
 /* Social container styling */
