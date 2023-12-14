@@ -16,7 +16,7 @@
 </p>
 
 <h2>Getting Started 🎧</h2>
-<p>This project utilized the benefits of multiple technologies such as Javascript , HTML , CSS.</p>
+<p>This project utilized the benefits of multiple technologies such as Javascript , HTML , CSS🚀.</p>
 <p>Its better if we familiarize ourselves with these technologies.</p>
 
 <h3>Prerequisites</h3>
@@ -26,3 +26,57 @@
  <a href="https://github.com/Saqibadnan0011"><img src="https://img.shields.io/badge/THINK-BIG-green"></a>
  <a href="https://medium.com/@saqibadnan7755"><img src="https://img.shields.io/badge/WORK-HARD-blue"></a>
 </p>
+<p>To get started you just need your laptop for running the project ! The code editor and package manager are all at your discretion🌐.</p>
+
+<h2>Installing💻</h2>
+<p>It's pretty straight forward to install the project in your local machine.</p>
+
+<p><strong>Clone the ropository:</strong></p>
+
+```git
+
+git clone <repository name>
+
+```
+
+<h2>Deployment🌈</h2>
+
+<p>
+ <strong>Run the Application</strong>
+</p>
+
+```git
+
+Use the live Server extension in VScode
+
+```
+
+<h2>Built 🤎</h2>
+
+<p><strong>With lot of love and some HTML, CSS</strong></p>
+
+<h2>Contributing</h2>
+
+<p>
+ Make Pull requests which improve the functionality of the application in any sorts. It should conform with the following conditions.
+ <ul>
+  <li>Clear , short description of the PR.</li>
+  <li>Should add on to the value of the application.</li>
+ </ul>
+</p>
+
+<p>I am basically from Jauharabad, Pakistan. (Small city but Big Dreams)</p>
+<img width="250" alt="Screenshot 2023-10-05 at 12 01 15 AM" src="https://github.com/Saqibadnan0011/CryptoWallet/assets/79377722/f50104e7-0975-4eb4-bf58-cf7205e0e72b">
+
+<h1>Acknowledgments 💞</h1>
+
+<p>
+ <ul>
+  <li>To the community of computer science 💻.</li>
+  <li>To my family👪 who always kept me motivated.</li>
+ </ul>
+</p>
+
+
+
+
