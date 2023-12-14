@@ -18,3 +18,11 @@
 <h2>Getting Started 🎧</h2>
 <p>This project utilized the benefits of multiple technologies such as Javascript , HTML , CSS.</p>
 <p>Its better if we familiarize ourselves with these technologies.</p>
+
+<h3>Prerequisites</h3>
+
+<p>
+ <a href="https://www.linkedin.com/in/saqib-adnan/"><img src="https://img.shields.io/badge/STAY-MOTIVATED-orange"></a>
+ <a href="https://github.com/Saqibadnan0011"><img src="https://img.shields.io/badge/THINK-BIG-green"></a>
+ <a href="https://medium.com/@saqibadnan7755"><img src="https://img.shields.io/badge/WORK-HARD-blue"></a>
+</p>
