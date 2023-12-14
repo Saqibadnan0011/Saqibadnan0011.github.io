@@ -1,10 +1,20 @@
-# Saqib Adnan (techLord)
+# Saqib Adnan 
  
-<h3 align="left">Follow me:</h3>
-<p align="left">
-<a href="https://twitter.com/saqibadnan0011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saqibadnan0011" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saqib-adnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saqib-adnan" height="30" width="40" /></a>
+<img width="906" alt="Screenshot 2023-12-14 at 10 21 18 PM" src="https://github.com/wimpywarlord/wimpywarlord.github.io/assets/79377722/59596a1f-f390-4111-acbe-63175356bc73">
+
+<h1>techLord👽</h1>
+<p>I just workout during the day and smash my keyboard in the night😄☕️.</p>
+
+<h1>My Portfolio Website🗣️</h1>
+
+<p>This is an attempt to explain the very complex being that I am, through the language of binary.</p>
+
+<img width="1394" alt="Screenshot 2023-12-14 at 10 28 50 PM" src="https://github.com/wimpywarlord/wimpywarlord.github.io/assets/79377722/b6dfc353-1175-42ec-ae1d-bff621a67d3a">
+
+<p>
+ <strong>Link to the website: <a href="https://saqibadnan0011.github.io" rel="nofollow">techLord.github.io</a></strong>
 </p>
 
-<h1 align="left">Personal Website👾</h1>
-<p align="left">The way I'm available to explain the complex version or mine, through binary instructions :)</p>
+<h2>Getting Started 🎧</h2>
+<p>This project utilized the benefits of multiple technologies such as Javascript , HTML , CSS.</p>
+<p>Its better if we familiarize ourselves with these technologies.</p>
