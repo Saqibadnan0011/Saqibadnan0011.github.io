@@ -285,7 +285,7 @@
   align-items: flex-end;
   transition: 0.6s cubic-bezier(.28, -0.03, 0 , .99);
   box-shadow: 0px 10px 30px -5px rgba(0, 0, 0, 0.8);
-  background-color: white;
+  background-color: rgb(56, 56, 56);
 }
 
 .card > .row {
@@ -340,7 +340,14 @@ input:checked + label {
   width: 600px;
 }
 
+input:checked + lable .description {
+  opacity: 1 !important;
+  transform: translateY(0) !important;
+}
 
+.card[for="c1"] {
+  background-image: url('./assets/crypto.png');
+}
 
 
 
