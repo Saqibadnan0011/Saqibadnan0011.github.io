@@ -317,15 +317,19 @@
   transform: translateY(30px);
   transition-delay: .3s;
   transition: all .3s ease;
+  color: black;
 }
 
 .description p {
-  color: #b0b0ba;
+  color: black;
   padding-top: 5px;
+  font-family: "Poppins";
 }
 
 .discription h4 {
   text-transform: uppercase;
+  color: black;
+  font-family: "Poppins";
 }
 
 input {
