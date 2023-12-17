@@ -183,11 +183,11 @@
   display: flex !important;
   color: black;
   text-decoration: none;
-  background-color: rgb(57, 57, 57) !important;
+  background-color: rgb(50, 50, 50) !important;
 }
 
 .single-link-block-image {
-  background-color: rgb(57, 57, 57) !important;
+  background-color: rgb(50, 50, 50) !important;
   width: 30%;
   display: flex;
   height: 100%;
@@ -285,7 +285,7 @@
   align-items: flex-end;
   transition: 0.6s cubic-bezier(.28, -0.03, 0 , .99);
   box-shadow: 0px 10px 30px -5px rgba(0, 0, 0, 0.8);
-  background-color: rgb(56, 56, 56);
+  background-color: rgb(50, 50, 50);
 }
 
 .card > .row {
@@ -295,7 +295,7 @@
 }
 
 .card > .row > .icon {
-  background: #233;
+  background: rgb(176, 72, 20);
   color: white;
   border-radius: 50%;
   width: 50px;
@@ -317,18 +317,18 @@
   transform: translateY(30px);
   transition-delay: .3s;
   transition: all .3s ease;
-  color: black;
+  color: white;
 }
 
 .description p {
-  color: black;
+  color: white;
   padding-top: 5px;
   font-family: "Poppins";
 }
 
 .discription h4 {
   text-transform: uppercase;
-  color: black;
+  color: white;
   font-family: "Poppins";
 }
 
