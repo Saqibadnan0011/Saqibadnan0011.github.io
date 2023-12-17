@@ -349,6 +349,10 @@ input:checked + lable .description {
   background-image: url('./assets/crypto.png');
 }
 
+.card[for="c2"] {
+  background-image: url('./assets/crypto.png');
+}
+
 
 
 
